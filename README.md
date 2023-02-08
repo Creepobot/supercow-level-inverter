@@ -16,6 +16,7 @@
 ### How to use
 
 Just drag one or multiple `.lev` files on this program to "Open with..." function
+Pay attention! The program overwrites the level file, not creates a new one!
 
 ## Communication
 
